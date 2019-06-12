@@ -310,7 +310,7 @@ figure figcaption {
   background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
   float: left;
-  margin-bottom: 10em;
+  margin-bottom: 0;
   clear: both;
 }
 
@@ -350,7 +350,7 @@ figure figcaption {
 
 #colorlib-hero .flexslider .flex-control-nav li {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 #colorlib-hero .flexslider .flex-control-nav li a {
@@ -593,7 +593,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 .hire {
   padding: 2em;
-  background: #f9bf3f;
+  background: #20B2AA;
 }
 
 .hire h2 {
@@ -741,7 +741,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-  background: #f9bf3f;
+  background: #20B2AA;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
@@ -842,11 +842,11 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .services.color-3 {
-  border-bottom: 2px solid #f9bf3f;
+  border-bottom: 2px solid #20B2AA;
 }
 
 .services.color-3 .icon2 i {
-  color: #f9bf3f;
+  color: #20B2AA;
 }
 
 .services.color-4 {
@@ -945,15 +945,15 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .services.color-3 .icon {
-  background: #f9bf3f;
+  background: #20B2AA;
 }
 
 .services.color-3 .icon:before {
-  border-color: transparent transparent #f9bf3f transparent;
+  border-color: transparent transparent #20B2AA transparent;
 }
 
 .services.color-3 .icon:after {
-  border-color: #f9bf3f transparent transparent transparent;
+  border-color: #20B2AA transparent transparent transparent;
 }
 
 .services.color-4 .icon {
@@ -1066,15 +1066,15 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .progress-bar.color-3 {
-  background: #f9bf3f;
+  background: #20B2AA;
 }
 
 .progress-bar.color-3:after {
-  background: #f9bf3f;
+  background: #20B2AA;
 }
 
 .progress-bar.color-3 span {
-  color: #f9bf3f;
+  color: #20B2AA;
 }
 
 .progress-bar.color-4 {
