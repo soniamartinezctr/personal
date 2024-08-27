@@ -496,7 +496,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .colorlib-narrow-content {
-  padding: 0 2.5em;
+  padding: 0 2em;
 }
 
 @media screen and (max-width: 768px) {
@@ -518,8 +518,8 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 4em;
-  padding-bottom: 9em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   clear: both;
   width: 100%;
   display: block;
@@ -534,8 +534,8 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   .colorlib-about,
   .colorlib-services,
   .colorlib-contact {
-    padding-top: 5em;
-    padding-bottom: 8em;
+    padding-top: 2em;
+    padding-bottom: 3em;
   }
 }
 
@@ -733,13 +733,16 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
   color: #fff;
 }
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-1 {
+  background: #41B3A2;
+}
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
   background: #ec5453;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-  background: #20B2AA;
+  background: #5a23f3;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
@@ -747,8 +750,16 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
-  background: #f173b9;
+  background: #f39ec1;
 }
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-6 {
+  background: #66f0ea;
+}
+
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-7 {
+  background: #e4f66e;
+}
+
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
   background: #fff;
@@ -1064,15 +1075,15 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .progress-bar.color-3 {
-  background: #20B2AA;
+  background: #e8498b;
 }
 
 .progress-bar.color-3:after {
-  background: #20B2AA;
+  background: #e8498b;
 }
 
 .progress-bar.color-3 span {
-  color: #20B2AA;
+  color: #e8498b;
 }
 
 .progress-bar.color-4 {
@@ -1108,31 +1119,31 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .progress-bar.color-6 span {
-  color: #f173b9;
+  color: #4054b2;
 }
 
 .progress-bar.color-7 {
-  background: #25aceb;
+  background: #85f6f6;
 }
 
 .progress-bar.color-7:after {
-  background: #25aceb;
+  background: #85f6f6;
 }
 
 .progress-bar.color-7 span {
-  color: #25aceb;
+  color: #85f6f6;
 }
 
 .progress-bar.color-8 {
-  background: #2ee2bb;
+  background: #e4f66e;
 }
 
 .progress-bar.color-8:after {
-  background: #2ee2bb;
+  background: #e4f66e;
 }
 
 .progress-bar.color-8 span {
-  color: #2ee2bb;
+  color: #e4f66e;
 }
 
 .progress-bar.color-9 {
@@ -1159,6 +1170,40 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   color: #8866c7;
 }
 
+.progress-bar.color-11 {
+  background: #8fe353;
+}
+
+.progress-bar.color-11:after {
+  background: #8fe353;
+}
+
+.progress-bar.color-11 span {
+  color: #8fe353;
+}
+
+.progress-bar.color-12 {
+  background: #0e45cf;
+}
+
+.progress-bar.color-12:after {
+  background: #0e45cf;
+}
+
+.progress-bar.color-12 span {
+  color: #0e45cf;
+}
+.progress-bar.color-13 {
+  background: #efcc78;
+}
+
+.progress-bar.color-13:after {
+  background: #efcc78;
+}
+
+.progress-bar.color-13 span {
+  color: #efcc78;
+}
 .colorlib-feature {
   text-align: left;
   width: 100%;
