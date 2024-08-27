@@ -27,14 +27,14 @@ body {
 }
 
 a {
-  color: #2c98f0;
+  color: #4fb7b4;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 
 a:hover, a:active, a:focus {
-  color: #2c98f0;
+  color: #4fb7b4;
   outline: none;
   text-decoration: none !important;
 }
@@ -73,17 +73,17 @@ figure figcaption {
 
 ::-webkit-selection {
   color: #fff;
-  background: #2c98f0;
+  background: #4fb7b4;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #2c98f0;
+  background: #4fb7b4;
 }
 
 ::selection {
   color: #fff;
-  background: #2c98f0;
+  background: #4fb7b4;
 }
 
 #colorlib-page {
@@ -100,10 +100,8 @@ figure figcaption {
   position: fixed;
   overflow-y: scroll;
   z-index: 1001;
-  background: #f2f3f7;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
+  background: #f2f3f7
+
 }
 
 @media screen and (max-width: 768px) {
@@ -201,7 +199,7 @@ figure figcaption {
   bottom: 7px;
   left: 0;
   right: 0;
-  background-color: #2c98f0;
+  background-color: #4fb7b4;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -230,7 +228,7 @@ figure figcaption {
 }
 
 #colorlib-aside #colorlib-main-menu ul li.active a {
-  color: #2c98f0;
+  color: #4fb7b4;
 }
 
 #colorlib-aside #colorlib-main-menu ul li.active a:after {
@@ -275,14 +273,14 @@ figure figcaption {
 }
 
 #colorlib-aside .colorlib-footer ul li a {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(43, 193, 180, 0.705);
   padding: 4px;
 }
 
 #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
   text-decoration: none;
   outline: none;
-  color: #2c98f0;
+  color: #4fb7b4;
 }
 
 .container-wrap {
@@ -364,7 +362,7 @@ figure figcaption {
 #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
   background: transparent;
-  border: 2px solid #2c98f0;
+  border: 2px solid #4fb7b4;
 }
 
 #colorlib-hero .flexslider .flex-direction-nav {
@@ -421,8 +419,8 @@ figure figcaption {
 }
 
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 a {
-  color: rgba(44, 152, 240, 0.8);
-  border-bottom: 1px solid rgba(44, 152, 240, 0.7);
+  color: rgb(65, 179, 162);
+  border-bottom: 1px solid rgb(65, 179, 162);
 }
 
 #colorlib-hero .flexslider .slider-text > .slider-text-inner .heading-section {
@@ -483,7 +481,7 @@ body.offcanvas #colorlib-aside {
   -o-transform: translateX(0);
   transform: translateX(0);
   width: 300px;
-  background: #f2f3f7;
+  background: #0D7C66;
   z-index: 999;
   position: fixed;
 }
@@ -621,7 +619,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   letter-spacing: 1px;
   text-transform: uppercase;
   font-family: "Quicksand", Arial, sans-serif;
-  background-color: #2c98f0;
+  background-color: #41B3A2;
   color: #fff;
   position: relative;
   -webkit-box-shadow: none !important;
@@ -719,7 +717,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   display: block;
   width: 40px;
   height: 40px;
-  background: #2c98f0;
+  background: #5cb85c;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -749,7 +747,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
-  background: #2fa499;
+  background: #f173b9;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
@@ -814,7 +812,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   -ms-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
   -o-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
   box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
-  border-bottom: 2px solid #2c98f0;
+  border-bottom: 2px solid #41B3A2;
 }
 
 .services .icon2 {
@@ -824,7 +822,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 .services .icon2 i {
   font-size: 30px;
-  color: #2c98f0;
+  color: #41B3A2;
 }
 
 .services h3 {
@@ -842,19 +840,19 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .services.color-3 {
-  border-bottom: 2px solid #20B2AA;
+  border-bottom: 2px solid #41B3A2;
 }
 
 .services.color-3 .icon2 i {
-  color: #20B2AA;
+  color: #f173b9;
 }
 
 .services.color-4 {
-  border-bottom: 2px solid #a84cb8;
+  border-bottom: 2px solid #d43f3a;
 }
 
 .services.color-4 .icon2 i {
-  color: #a84cb8;
+  color: #4054b2;
 }
 
 .services.color-5 {
@@ -862,7 +860,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .services.color-6 {
-  border-bottom: 2px solid #4054b2;
+  border-bottom: 2px solid #8866c7;
 }
 
 .services {
@@ -1110,7 +1108,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .progress-bar.color-6 span {
-  color: #4054b2;
+  color: #f173b9;
 }
 
 .progress-bar.color-7 {
@@ -1222,7 +1220,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-  color: #2c98f0;
+  color: #2fa499;
   font-size: 40px;
 }
 
@@ -1324,7 +1322,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .work-menu span a.active {
-  color: #2c98f0;
+  color: #069A8E;
 }
 
 .project {
@@ -1344,7 +1342,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   bottom: 0;
   left: 0;
   right: 0;
-  background: #2c98f0;
+  background: #069A8E;
   opacity: 0;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -1488,7 +1486,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   width: 100px;
   height: 100px;
   font-size: 50px;
-  color: #2c98f0;
+  color: #069A8E;
   background: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1532,7 +1530,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
 }
 
 .colorlib-social li a {
@@ -1542,7 +1540,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   -ms-border-radius: 7px;
@@ -1562,7 +1560,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 .colorlib-social li a:hover, .colorlib-social li a:active, .colorlib-social li a:focus {
   outline: none;
   text-decoration: none;
-  color: #2c98f0;
+  color: #069A8E;
 }
 
 #map {
@@ -1608,9 +1606,9 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .pagination li a:hover, .pagination li a:focus {
-  background: #2c98f0;
+  background: #069A8E;
   color: #fff;
-  border: 1px solid #2c98f0;
+  border: 1px solid #069A8E;
 }
 
 @media screen and (max-width: 768px) {
@@ -1620,14 +1618,14 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .pagination li.active a {
-  background: #2c98f0;
-  border: 1px solid #2c98f0 !important;
+  background: #069A8E;
+  border: 1px solid #069A8E !important;
 }
 
 .pagination li.active a:hover, .pagination li.active a:focus {
-  background: #2c98f0;
+  background: #069A8E;
   color: #fff;
-  border: 1px solid #2c98f0 !important;
+  border: 1px solid #069A8E !important;
 }
 
 .btn {
@@ -1666,14 +1664,14 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .btn-primary {
-  background: #2c98f0;
+  background: #069A8E;
   color: #fff;
-  border: 2px solid #2c98f0;
+  border: 2px solid #069A8E;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #44a4f2 !important;
-  border-color: #44a4f2 !important;
+  background: #069A8E !important;
+  border-color: #069A8E !important;
 }
 
 .btn-primary.btn-outline {
@@ -1842,7 +1840,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   width: 30px;
   height: 2px;
   color: #000;
